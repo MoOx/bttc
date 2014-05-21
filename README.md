@@ -1,6 +1,6 @@
 # Back to the CSS
 
-> Write CSS like the specs are written.
+> Write CSS like the specs. Well almost.
 
 ![Back to the CSS](bttc.jpg)
 
