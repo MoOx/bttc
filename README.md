@@ -1,14 +1,13 @@
 # Back to the CSS
 
-> Write CSS like the specs. Well almost.
+> Use the best of CSS syntax, today.
 
 ![Back to the CSS](bttc.jpg)
 
 ```
-$ npm install -g myth
-$ echo "alias bttc=myth" >> .bashrc
+$ npm install -g cssnext
+$ echo "alias bttc=cssnext" >> .bashrc
 $ bttc futureproof.css output.css
 ```
 
-
-More on [myth.io](http://myth.io) & [myth README](https://github.com/segmentio/myth#readme)
+More on [cssnext.io](http://cssnext.github.io) & [cssnext README](https://github.com/cssnext/cssnext#readme)
